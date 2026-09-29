@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pgm-datalake-prod",
+  "private_key_id": "cd8c7e021adbfb56358aefb8bd26c5ca0c21ef67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGRfQqTONQq7Ji\n0EyreVBtOCN4rNf3n96J2UDu54i9K/lvyrz5wkpV5hY9MsKz/kH0/97Y8r3+OWYl\neV3oN/UXpbKcMd8QWIgUEnZUWMP1WSNuDwxbyyoLJaObSvC/TyEsk7dYd5/145mF\nRyWqjb0SwP52XVZk5L0m1keROpACTHX43B5tisONJcsfoQREzCmtm1enhuMdhIGR\nhwebtW8W5BNMh9pyswXl3sXfvuwps253wO/rl8m62LrdPKKbY/coss/7uI6NYcCB\nD5eEvur8nbi9mm83v4cjIiggmwiMIKv6IcPbO9klMHRro4B6mzhEk95yyrwGabrq\nFuxYZ4jvAgMBAAECggEAE4v/90+fNWvH6V/5vwn1uN7I+HOp0vrK2LI3aZYf7+5u\n5+uH1+OkqnVFigEAGvidDgdPs/mya2bDQDyH2oXxvsQSKL3t7NGdkMUFL2mU4BJK\noOYQ5NfRrEmoqH2p4GJvtdJWR/17IqWuk+ogt4DDvB6Ut5yaENZQI40KfzHT0rYE\niusdkleAF76//P7jL0WVhyrUDl3jceLp45I0turE6WHO3yIHQ1+acYVrKUwYVKbx\n65XdYvROosknxtlB3wGwf8J2atLrhUvn7HhRaJJlj/9KBOrp7Vy3L/reifHAxBaz\nLjZvHJcoDyGb++I07vw+W6ZC29BjktPIp0rNiWsd4QKBgQDttA7pUw+uKywlvDsF\nXK9kW2p74vv/anCAKuNbWSheYy78bvi2gbACp0lPZ8R6ZK37gNd4eeNgDEZd+Nqu\n7qqCFzN8RuvV1neceem30J/8iu18hRLDS66JiVy/fuavM7mJ9wpvUa8rr4mxpsbS\nl7+x64sC+gqtiZsoLV9uh5cdPwKBgQDViO0LXOy0BVgn6hRn+pXnfEFzjaDO3fmW\nFZueRLYKoj66MO20CDI1zDMX0ncwuECA2dZy7zNrLxNFjezhAIsKHB4gWCY2+3vn\nEuf9EXBt5MHyHmvnBxpb/kBL89R+hHHH1cdHvQIh0arqpi/QbeKkqcKqfted1SaO\nLXbBXO64UQKBgQDGDJvP85DBAN+LoUVbtlm8OB6Ekh58NOb/IrzDw4lK+0COurcm\n+O75hwAh1MdzYqdDQZpFmujDgfavHUS3M8uFEGepSD3+sO5/xWPh70UdWXN9qDJ1\n3XzSw0wvkUALAgG43cgn79sPfvYuulI17JGfYC02kbaL2HcaBpPYt8hEaQKBgQDJ\nmmxLBSHJ2R3hGWTIwtKS6kKVSYsgpHyHUcFKDQ9ePM5CVf2msvJMzo0SmbfEfMER\nphmNC/+c26YzTgruZ+fd1Kww12jFEmxpvvTefn+Kkab24/f1+EPPxN2JmBzwkjUm\nedSbC30e1uiqf9q2y3hnBIvxEq6ZqmurYoszhn0v8QKBgDF7Q/5oyeDboQ3NSm/3\nOgL3EwW7K+FYSs2rtBwbWoix0d5ZZBrrU8N5Haf/KG49yHrMqE4xOlY9iLBFxDle\ne1B834AGv9enWGivfd+CRcP74sQ+D9ZAkckeKA3p8fb1EYL7eFFWbV2paP4rozb/\nHoJeMDscPJ1sdMUJAiVwVTSS\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-rag-gemini-dev@pgm-datalake-prod.iam.gserviceaccount.com",
+  "client_id": "117736539047208788223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-rag-gemini-dev%40pgm-datalake-prod.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

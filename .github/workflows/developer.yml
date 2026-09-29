@@ -1,0 +1,22 @@
+name: developer
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    runs-on: [dev228]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: run install, build and test
+        run: |
+          cd /opt/apps
+          rm -rf google-rag
+          git clone --branch main --single-branch git@github.com:PGM-CTEC/google-rag.git
+          cd google-rag
+          chmod +x ./build.sh
+          ./build.sh
